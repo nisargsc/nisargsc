@@ -2,9 +2,9 @@
 Hey, I'm Nisarg Chaudhari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-- I'm a Developer and a Computer Science student from India 
-- Exploring web3 and blockchain technology
-- Current focus **Solidity, Smart Contract development**
+- I'm a Developer from India 
+- Exploring and learning blockchain technology.
+- Blockchain Developer building "MYNE - Make your NFT easy", a platform to empower artists with knowledge and tools to be NFT artists
 
 ## Tools and Languages I have used:
 
