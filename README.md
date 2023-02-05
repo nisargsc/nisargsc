@@ -2,7 +2,8 @@
 Hey, I'm Nisarg Chaudhari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-- Blockchain Developer building "MYNE - Make your NFT easy", a platform to empower artists with knowledge and tools to be NFT artists
+- Blockchain Dev | Learning web3, Backend, APIs, and more
+- Previously worked as a Blockchain Dev at "MYNE - Make your NFT easy", a platform to empower artists with knowledge and tools to be NFT artists
 
 ## Tools and Languages I have used:
 
