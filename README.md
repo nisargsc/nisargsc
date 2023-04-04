@@ -2,8 +2,20 @@
 Hey, I'm Nisarg Chaudhari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-- Blockchain Dev | Learning web3, Backend, APIs, and more
+- Blockchain Dev and a computer science undergrad from India
 - Previously worked as a Blockchain Dev at "MYNE - Make your NFT easy", a platform to empower artists with knowledge and tools to be NFT artists
+
+## Currently Exploring
+- Distributed p2p protocol/infrastructure development using libp2p
+- Smart contract securinty and auditing
+- Goal is to be able to **Help in creating a better and more secure peer-to-peer future.**
+
+## Talk to me about
+- Blockchian, Decentralisation, Distributed systems
+- Custom ergonomic mechanical keyboards, non-qwerty layouts
+- Tilling window managers, Linux ricing
+
+<!--
 
 ## Tools and Languages I have used:
 
@@ -24,6 +36,8 @@ Hey, I'm Nisarg Chaudhari! <img src="https://raw.githubusercontent.com/MartinHei
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+-->
 
 ## Connect with me:
 
