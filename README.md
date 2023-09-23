@@ -2,15 +2,15 @@
 Hey, I'm Nisarg Chaudhari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-- Blockchain Dev / Bakcend Dev
+- Blockchain Dev / Backend Dev
 
 ## Currently Exploring
 - Distributed p2p protocol/infrastructure development using libp2p
-- Smart contract securinty and auditing
+- Smart contract security and auditing
 - Goal is to be able to **Help in creating a better and more secure peer-to-peer future.**
 
 ## Talk to me about
-- Blockchian, Decentralisation, Distributed systems
+- Blockchain, Decentralisation, Distributed systems
 - Custom ergonomic mechanical keyboards, non-qwerty layouts
 - Tilling window managers, Linux ricing
 
