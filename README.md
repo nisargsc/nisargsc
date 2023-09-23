@@ -2,8 +2,7 @@
 Hey, I'm Nisarg Chaudhari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-- Blockchain Dev and a computer science undergrad from India
-- Previously worked as a Blockchain Dev at "MYNE - Make your NFT easy", a platform to empower artists with knowledge and tools to be NFT artists
+- Blockchain Dev / Bakcend Dev
 
 ## Currently Exploring
 - Distributed p2p protocol/infrastructure development using libp2p
